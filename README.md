@@ -1,0 +1,2 @@
+# JSONrotate
+rotating jsondata
